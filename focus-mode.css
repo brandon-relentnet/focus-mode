@@ -6,6 +6,6 @@ main .toc-container {
 }
 
 main > :last-child {
-    margin-top: main(10vmax, 10rem);
+    margin-top: min(10vmax, 10rem);
     margin-bottom: min(10vmax, 10rem);
 }
