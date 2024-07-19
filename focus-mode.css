@@ -1,6 +1,7 @@
 body > .scaffold > :is(top-nav, navigation-rail, side-nav, footer),
 main > :not(:last-child),
 main > :last-child > navigation-tree,
+body > section > devsite-book-nav,
 main .toc-container {
     display: none;
 }
